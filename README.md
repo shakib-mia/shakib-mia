@@ -67,8 +67,6 @@ Agency website focused on performance, accessibility, and SEO.
 
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=shakib-mia&theme=shadow)
 
----
-
 ## Connect
 
 Portfolio: https://mdshakibmia.vercel.app/
