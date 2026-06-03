@@ -66,8 +66,6 @@ Agency website focused on performance, accessibility, and SEO.
 
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=shakib-mia&theme=shadow)
 
-## Connect
+## Connect With Me
 
-- Portfolio: https://mdshakibmia.vercel.app/
-- LinkedIn: https://linkedin.com/in/mdshakibmia
-- Email: smdshakibmia2001@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&)](https://mdshakibmia.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/mdshakibmia) [![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail)](mailto:smdshakibmia2001@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/shakib-mia) [![WhatsApp](https://img.shields.io/badge/WhatsApp-FFFFFF?style=for-the-badge&logo=whatsapp)](https://wa.me/8801832492467)
