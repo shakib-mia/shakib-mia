@@ -12,7 +12,7 @@ Frontend Engineer with 3+ years of professional experience building production-g
 
 I specialize in React, Next.js, TypeScript, and Tailwind CSS, with additional experience across Node.js, Express.js, MongoDB, and AI integrations.
 
-Currently focused on:
+**Currently focused on:**
 
 - Building scalable SaaS products
 - Modern frontend architecture
@@ -65,19 +65,13 @@ Agency website focused on performance, accessibility, and SEO.
 
 🔗 https://adztronaut.com
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib-mia&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakib-mia&layout=compact&hide_border=true)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=shakib-mia&theme=shadow)
 
 ---
 
 ## Connect
 
-Portfolio: https://mdshakibmia.vercel.app
+Portfolio: https://mdshakibmia.vercel.app/
 
 LinkedIn: https://linkedin.com/in/mdshakibmia
 
