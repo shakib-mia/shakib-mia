@@ -125,6 +125,10 @@ Built a reusable component system with Next.js App Router, responsive layouts, l
 
 🔗 [Live Website](https://codafare.vercel.app/)
 
+## 📊 GitHub Stats
+
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=shakib-mia&theme=shadow)
+
 ## Education
 
 ### University of Chittagong
