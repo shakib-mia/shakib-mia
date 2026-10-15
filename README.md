@@ -1,117 +1,133 @@
 # Md. Shakib Mia
 
-**Software Engineer · Full-Stack Web Developer**
+**Full Stack Developer | MERN Stack · PERN Stack**
 
-Next.js · React · TypeScript · Node.js · PostgreSQL · AI Integration
+Chattogram, Bangladesh
 
-I build production-ready web applications, business management systems, SaaS products, and modern digital experiences with a focus on clean architecture, usability, and performance.
+[Phone](tel:+8801832492467) · [Email](mailto:mdshakibmia867@gmail.com) · [Portfolio](https://mdshakibmia.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mdshakibmia) · [GitHub](https://github.com/shakib-mia)
 
----
+## Professional Summary
 
-## About Me
+Full Stack Developer experienced in building business management systems, SaaS platforms, and production websites using the MERN and PERN stacks. Skilled in React.js, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, and Prisma. Developed two business management systems, implemented REST APIs, role-based access control (RBAC), tenant data isolation, and payment workflows, and rebuilt a music distribution platform’s backend from scratch. Experienced in deploying applications using Linux VPS, Nginx, and PM2.
 
-I'm a Full-Stack Web Developer with **4+ years of professional experience** building and maintaining production web applications.
+## Technical Skills
 
-My primary focus is modern JavaScript/TypeScript development, with experience across frontend, backend, databases, authentication, API design, and AI-powered workflows.
+- **Languages:** JavaScript, TypeScript, SQL
+- **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Responsive Design, Reusable Components, Static Site Generation (SSG)
+- **State Management & Data Fetching:** Redux, REST API Integration, Axios
+- **Backend:** Node.js, Express.js, REST API Development, Zod
+- **Databases & ORM:** PostgreSQL, MongoDB, Prisma
+- **Authentication & Authorization:** JWT, Firebase Authentication, Google OAuth, RBAC, Tenant Data Isolation
+- **AI Integration:** OpenAI API, Ollama, AI-Assisted Development
+- **Deployment & Tools:** Linux, VPS Deployment, Nginx, PM2, Git, GitHub, Vercel, Firebase, Render
 
-**Currently focused on:**
+## Professional Experience
 
-- Building scalable full-stack applications with **Next.js, React, TypeScript, and Node.js**
-- Developing business management systems and SaaS products
-- Designing maintainable and modular application architectures
-- Integrating AI capabilities into practical web applications
-- Building high-quality website templates and digital products through **TemplateHearth**
+### TotalTech Software Ltd. — Full Stack Developer
 
----
+**January 2026 – October 2026**
 
-## Tech Stack
+- Developed two business management systems using the PERN stack: a Workshop Management System (WMS) and a Retail Management System (RMS), covering workflows from bookings and work orders to sales and invoices.
+- Implemented tenant data isolation, RBAC, and validation across WMS modules to enforce organization-level data separation and access control.
+- Developed RMS modules for customers, inventory, sales, invoices, dashboard reporting, and user management, supporting cash, installment, and mixed-payment sales.
+- Built two business websites—a corporate website and a bilingual GPS tracking and fleet management website—and deployed applications using Linux VPS, Nginx, and PM2.
 
-### Frontend
+### Adztronaut — MERN Stack Developer (Contract)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform)
+**February 2023 – January 2026**
 
-### Backend & APIs
+- Initially developed GeetBazaar's artist-facing and admin dashboards, then took on backend responsibilities and rebuilt the backend from scratch using Node.js and Express.js after the original backend developer left.
+- Implemented music distribution workflows covering artist management, releases, track metadata, song and album uploads, royalties, payments, administration, and revenue calculations.
+- Integrated ACRCloud for copyright checking and developed custom workflows for YouTube requests, social media linking, whitelisting, promotional tools, and music-platform profile relocation.
+- Built an earnings-allocation workflow accounting for the platform's 10% share, delivered GeetBazaar for client approval and production deployment, and developed the Adztronaut and Growcial Bull business websites.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+### Raddito LLC — Full Stack Developer
 
-### Database & Authentication
+**January 2024 – January 2025 · Full-time**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+- Developed and maintained frontend and backend features for web applications.
+- Integrated REST APIs, built data-driven interfaces, and implemented administrative workflows.
+- Troubleshot issues and improved existing application functionality.
 
-### AI & Automation
+### CloudLumos — Software Engineering Intern
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge) ![AI Workflows](https://img.shields.io/badge/AI_Workflows-Integration-orange?style=for-the-badge)
+**November 2023 – February 2024**
 
-### Tools & DevOps
+- Developed reusable React components and responsive user interfaces.
+- Integrated REST APIs and implemented data-fetching and state-management workflows.
+- Fixed UI and application issues while improving component consistency and maintainability.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2)
+### Banao Tech — React Developer Intern
 
----
+**July 2022 – June 2023**
 
-## Featured Projects
+- Built responsive React interfaces and reusable frontend components.
+- Integrated APIs and implemented data-driven UI functionality.
+- Improved interface consistency and resolved frontend issues during development.
 
-### Workshop Management System
+## Selected Projects
 
-A full-stack business management system designed to manage workshop operations, customers, vehicles, services, inventory, payments, and operational workflows.
+### Workshop Management System (WMS)
 
-**Stack:** React · TypeScript · Node.js · Express.js · PostgreSQL · Prisma · Tailwind CSS
+**Full Stack · React.js, Node.js, Express.js, PostgreSQL, Prisma**
 
----
+Developed a production-ready Workshop Management System to manage interconnected workshop operations, including bookings, work orders, quotations, invoices, parts inventory, vehicles, customers, employees, mechanics, and suppliers. Designed the system around connected business workflows to support day-to-day workshop operations within a unified application.
 
-### Retail Management System
+Implemented tenant data isolation, role-based access control (RBAC), input validation, and relationships between operational modules. Focused on data separation, controlled access, and consistent business logic to establish a maintainable foundation for workshop management.
 
-A production-oriented retail and loan management system covering customers, products, sales, invoices, inventory, payments, installments, and business operations.
+### Retail Management System (RMS)
 
-**Stack:** React · TypeScript · Node.js · Express.js · PostgreSQL · Prisma · Tailwind CSS
+**Full Stack · React.js, Node.js, Express.js, PostgreSQL, Prisma**
 
----
+Developed a Retail Management System with customer management, inventory, sales, invoice generation, dashboard reporting, and user-management functionality. Structured the application around retail workflows to connect sales transactions with inventory and customer payment records.
 
-### GeetBazaar
+Implemented cash, installment, and mixed-payment sales, including partial payments, excess payments, outstanding balances, and installment payment allocation. Focused on accurate payment tracking and balance calculations to support retail transactions and customer dues.
 
-A music distribution platform built for artists and music businesses, including release management, artist workflows, dashboards, royalty-related operations, and AI-powered support.
+### GeetBazaar — Music Distribution Platform
 
-**Stack:** Next.js · React · TypeScript · Node.js · AI Integration
+**Full Stack · React.js, Next.js, Node.js, Express.js, MongoDB**
+
+Initially developed the artist-facing and administrative dashboards for a music distribution platform, then took on backend development after the original backend developer left. Rebuilt the backend from scratch using Node.js and Express.js, connecting both applications to shared business logic for music distribution operations.
+
+Implemented artist management, music releases, track metadata, song and album uploads, royalty management, payments, administration, and revenue calculations. Integrated ACRCloud for copyright checking and developed custom workflows for promotional tools, YouTube Official Artist Channel requests, claim releases, social media linking, whitelisting, and music-platform profile relocation.
+
+Built an earnings-allocation workflow that accounts for the platform's 10% share and allows users to apply available earnings toward eligible plans. Delivered the platform for client approval and production deployment, where it handled real user data before the project was discontinued.
 
 🔗 [Visit GeetBazaar](https://geetbazaar.adztronaut.com)
 
----
+### Adztronaut — Advertising Agency Website
 
-### Adztronaut
+**Frontend · React.js, Next.js, Tailwind CSS**
 
-A modern digital agency website focused on performance, accessibility, SEO, and a polished user experience.
+Developed a modern advertising agency website by translating provided UI/UX designs into a polished, production-ready frontend. The website showcases agency services, case studies, testimonials, and company credibility through a structured layout and conversion-focused user experience.
 
-🔗 [Visit Adztronaut](https://adztronaut.com)
+Implemented reusable components, responsive layouts, a multi-slide hero section, smooth transitions, and SEO-friendly markup. Focused on visual accuracy, performance optimization, accessibility, and minimizing layout shifts to deliver a consistent experience across devices.
 
----
+🔗 [Live Website](https://adztronaut.com/)
 
-### TemplateHearth
+### TemplateHearth — Website Template Marketplace
 
-A web template business focused on creating and eventually selling high-quality website templates for startups, agencies, businesses, and creators.
+**Frontend · Next.js, React.js, Tailwind CSS**
 
-🔗 [Visit TemplateHearth](https://templatehearth.vercel.app)
+Independently planned and developed a website template marketplace focused on reusable website designs for startups, agencies, businesses, and creators. Built a custom component-based design system from scratch without relying on paid UI kits, establishing a consistent visual language and maintainable frontend architecture.
 
----
+Optimized page structure, metadata, responsive layouts, and navigation to support performance, search engine discoverability, and a smooth browsing experience. The project demonstrates end-to-end ownership of product planning, interface development, design consistency, and deployment.
 
-### Codafare
+🔗 [Live Website](https://templatehearth.vercel.app/)
 
-A modern agency website concept built with a strong focus on premium visual design, responsive experiences, accessibility, and reusable frontend architecture.
+### Codafare — Digital Agency & Software Studio Website
 
-🔗 [Visit Codafare](https://codafare.vercel.app)
+**Frontend · Next.js, React.js, TypeScript, Tailwind CSS, Motion**
 
----
+Designed and developed a modern digital agency and software studio website featuring dedicated service pages, project showcases, dynamic project details, insights, and contact functionality. Combined editorial-style layouts, clear typography, and subtle animations to establish a professional digital presence for web development, custom software, UI/UX, and AI integration services.
 
-## GitHub Stats
+Built a reusable component system with Next.js App Router, responsive layouts, light and dark themes, page-specific SEO metadata, and static rendering where appropriate. Balanced visual design with performance, accessibility, maintainability, and scalability to create a flexible foundation for the agency's growing content and services.
 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=shakib-mia&theme=shadow)
+🔗 [Live Website](https://codafare.vercel.app/)
 
----
+## Education
 
-## Connect With Me
+### University of Chittagong
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://mdshakibmia.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdshakibmia) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/shakib-mia) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:smdshakibmia2001@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/8801832492467)
+- **Master of Arts (MA), Islamic Studies** — 2024
+- **Bachelor of Arts (Honours), Islamic Studies** — 2023 · First Class
