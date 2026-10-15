@@ -4,7 +4,7 @@
 
 Chattogram, Bangladesh
 
-[Phone](tel:+8801832492467) · [Email](mailto:mdshakibmia867@gmail.com) · [Portfolio](https://mdshakibmia.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mdshakibmia) · [GitHub](https://github.com/shakib-mia)
+[WhatsApp](https://wa.me/8801832492467) · [Email](mailto:mdshakibmia867@gmail.com) · [Portfolio](https://mdshakibmia.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mdshakibmia) · [GitHub](https://github.com/shakib-mia)
 
 ## Professional Summary
 
