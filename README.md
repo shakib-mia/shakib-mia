@@ -93,7 +93,7 @@ Implemented artist management, music releases, track metadata, song and album up
 
 Built an earnings-allocation workflow that accounts for the platform's 10% share and allows users to apply available earnings toward eligible plans. Delivered the platform for client approval and production deployment, where it handled real user data before the project was discontinued.
 
-### [Adztronaut — Advertising Agency Website](<(https://adztronaut.com/)>)
+### [Adztronaut — Advertising Agency Website](https://adztronaut.com/)
 
 **Frontend · React.js, Next.js, Tailwind CSS**
 
