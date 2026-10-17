@@ -83,7 +83,7 @@ Developed a Retail Management System with customer management, inventory, sales,
 
 Implemented cash, installment, and mixed-payment sales, including partial payments, excess payments, outstanding balances, and installment payment allocation. Focused on accurate payment tracking and balance calculations to support retail transactions and customer dues.
 
-### GeetBazaar — Music Distribution Platform
+### [GeetBazaar — Music Distribution Platform](https://geetbazaar.adztronaut.com)
 
 **Full Stack · React.js, Next.js, Node.js, Express.js, MongoDB**
 
@@ -93,9 +93,7 @@ Implemented artist management, music releases, track metadata, song and album up
 
 Built an earnings-allocation workflow that accounts for the platform's 10% share and allows users to apply available earnings toward eligible plans. Delivered the platform for client approval and production deployment, where it handled real user data before the project was discontinued.
 
-🔗 [Visit GeetBazaar](https://geetbazaar.adztronaut.com)
-
-### Adztronaut — Advertising Agency Website
+### [Adztronaut — Advertising Agency Website](<(https://adztronaut.com/)>)
 
 **Frontend · React.js, Next.js, Tailwind CSS**
 
@@ -103,9 +101,7 @@ Developed a modern advertising agency website by translating provided UI/UX desi
 
 Implemented reusable components, responsive layouts, a multi-slide hero section, smooth transitions, and SEO-friendly markup. Focused on visual accuracy, performance optimization, accessibility, and minimizing layout shifts to deliver a consistent experience across devices.
 
-🔗 [Live Website](https://adztronaut.com/)
-
-### TemplateHearth — Website Template Marketplace
+### [TemplateHearth — Website Template Marketplace](https://templatehearth.vercel.app/)
 
 **Frontend · Next.js, React.js, Tailwind CSS**
 
@@ -113,17 +109,13 @@ Independently planned and developed a website template marketplace focused on re
 
 Optimized page structure, metadata, responsive layouts, and navigation to support performance, search engine discoverability, and a smooth browsing experience. The project demonstrates end-to-end ownership of product planning, interface development, design consistency, and deployment.
 
-🔗 [Live Website](https://templatehearth.vercel.app/)
-
-### Codafare — Digital Agency & Software Studio Website
+### [Codafare — Digital Agency & Software Studio Website](https://codafare.vercel.app/)
 
 **Frontend · Next.js, React.js, TypeScript, Tailwind CSS, Motion**
 
 Designed and developed a modern digital agency and software studio website featuring dedicated service pages, project showcases, dynamic project details, insights, and contact functionality. Combined editorial-style layouts, clear typography, and subtle animations to establish a professional digital presence for web development, custom software, UI/UX, and AI integration services.
 
 Built a reusable component system with Next.js App Router, responsive layouts, light and dark themes, page-specific SEO metadata, and static rendering where appropriate. Balanced visual design with performance, accessibility, maintainability, and scalability to create a flexible foundation for the agency's growing content and services.
-
-🔗 [Live Website](https://codafare.vercel.app/)
 
 ## 📊 GitHub Stats
 
