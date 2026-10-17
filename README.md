@@ -83,7 +83,7 @@ Developed a Retail Management System with customer management, inventory, sales,
 
 Implemented cash, installment, and mixed-payment sales, including partial payments, excess payments, outstanding balances, and installment payment allocation. Focused on accurate payment tracking and balance calculations to support retail transactions and customer dues.
 
-### [GeetBazaar — Music Distribution Platform](https://geetbazaar.adztronaut.com)
+### <a href="https://geetbazaar-landing.vercel.app/" target="_blank" rel="noopener noreferrer">GeetBazaar — Music Distribution Platform</a>
 
 **Full Stack · React.js, Next.js, Node.js, Express.js, MongoDB**
 
@@ -93,7 +93,7 @@ Implemented artist management, music releases, track metadata, song and album up
 
 Built an earnings-allocation workflow that accounts for the platform's 10% share and allows users to apply available earnings toward eligible plans. Delivered the platform for client approval and production deployment, where it handled real user data before the project was discontinued.
 
-### [Adztronaut — Advertising Agency Website](https://adztronaut.com/)
+### <a href="https://adztronaut.com/" target="_blank" rel="noopener noreferrer">Adztronaut — Advertising Agency Website</a>
 
 **Frontend · React.js, Next.js, Tailwind CSS**
 
@@ -101,7 +101,7 @@ Developed a modern advertising agency website by translating provided UI/UX desi
 
 Implemented reusable components, responsive layouts, a multi-slide hero section, smooth transitions, and SEO-friendly markup. Focused on visual accuracy, performance optimization, accessibility, and minimizing layout shifts to deliver a consistent experience across devices.
 
-### [TemplateHearth — Website Template Marketplace](https://templatehearth.vercel.app/)
+### <a href="https://templatehearth.vercel.app/" target="_blank" rel="noopener noreferrer">TemplateHearth — Website Template Marketplace</a>
 
 **Frontend · Next.js, React.js, Tailwind CSS**
 
@@ -109,7 +109,7 @@ Independently planned and developed a website template marketplace focused on re
 
 Optimized page structure, metadata, responsive layouts, and navigation to support performance, search engine discoverability, and a smooth browsing experience. The project demonstrates end-to-end ownership of product planning, interface development, design consistency, and deployment.
 
-### [Codafare — Digital Agency & Software Studio Website](https://codafare.vercel.app/)
+### <a href="https://codafare.vercel.app/" target="_blank" rel="noopener noreferrer">Codafare — Digital Agency & Software Studio Website</a>
 
 **Frontend · Next.js, React.js, TypeScript, Tailwind CSS, Motion**
 
